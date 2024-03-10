@@ -778,3 +778,31 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 432.512100 seconds.
+  path: Assets/Prefabs/FloorCube.prefab
+  artifactKey: Guid(4773ae69041daac4c93db89709d432b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Prefabs/FloorCube.prefab using Guid(4773ae69041daac4c93db89709d432b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84a24ee03e0eeffba509462548c5201') in 0.055280 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Prefabs/FriendlyCube.prefab
+  artifactKey: Guid(c7324f1baf047f948962a1810a548397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Prefabs/FriendlyCube.prefab using Guid(c7324f1baf047f948962a1810a548397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd755904753a850a3679e87ba47decb1b') in 0.008250 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Prefabs/RaycastShooter.prefab
+  artifactKey: Guid(c61fe3ed8da19334f9e89ee70ca21e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Prefabs/RaycastShooter.prefab using Guid(c61fe3ed8da19334f9e89ee70ca21e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc44ddb0defe9d94702a9eae6b40132') in 0.006126 seconds 
+Number of asset objects unloaded after import = 4
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
